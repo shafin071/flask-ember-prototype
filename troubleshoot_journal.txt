@@ -1,0 +1,3 @@
+
+First time app run gave 404.
+- Issue was I forgot to add @ to app.route decorator
